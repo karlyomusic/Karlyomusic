@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello World 🚀
+I'm Karla Paola Osio Amaya, i'm a **singer** and a **makeup artist**. Also I love videogames, coding and creating something new to help others.
 
-<!--
-**karlyomusic/Karlyomusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning coding
 
-Here are some ideas to get you started:
+I'm passionate about playing videogames, cooking and learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Random Fact ⚡
+A random fact about me is that I used to study veterinarian medicine, music, tourism and makeup.
+
+**So if I studied those things, why is someone like me studying something so diferent?**
+
+The answer is simple, I want to create a better world and help others using programming and coding as a software developer.
+
+## Top Hobbies
+
+- ❤️ Spending time with my family and my daughter
+- 🎤 Singing
+- 📺 Watching movies
+- 🏞️ Exploring nature
+- 🐶 Taking care of animals
+- 🥙 Eat delicious food
+- 🎮  Playing videogames
